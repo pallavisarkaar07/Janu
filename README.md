@@ -6,17 +6,17 @@
 [![Size](https://img.shields.io/github/repo-size/szsupunma/sz-rosebot?style=flat-square&color=green)](https://github.com/szsupunma/sz-rosebot/)   
 [![Python](https://img.shields.io/badge/Python-v3.9.9-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/szsupunma/sz-rosebot/graphs/commit-activity)
-[![Crowdin](https://badges.crowdin.net/szrosebot/localized.svg)](https://crowdin.com/project/szrosebot)
+[![Crowdin](https://badges.crowdin.net/szrosebot/localized.svg)](https://github.com/pallavisarkaar07/Janu)
 <p align='left'>
  <a href="https://www.supun.ml/deploy.html"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
 </p>
 
 
-[szrosebot](https://github.com/szsupunma/sz-rosebot) is the most featured group management bot ever made with advance Anti module !
+[szrosebot](https://github.com/pallavisarkaar07/Janu) is the most featured group management bot ever made with advance Anti module !
 
 ## 🚀Getting started
 Complete Documentation For Rose Bot..
-[Click Here](https://szsupunma.gitbook.io/rose-bot)
+[Click Here](https://github.com/pallavisarkaar07/Janu)
 [![Documentation](https://img.shields.io/badge/Documentation-Rosebot-blue)](https://szsupunma.gitbook.io/rose-bot/)   
     
 
