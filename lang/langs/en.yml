@@ -95,7 +95,7 @@ app12 : "{} is not an approved user. They are affected by normal commands."
 
 #plugin - lang.py
 setting_1 : "Hello {}, I can speek many languages\n Select your language from bellow !"
-setting_2 : "[🌎](https://crwd.in/szrosebot)Language was changed Successfully \n.Changed by {}"
+setting_2 : "[🌎](https://crwd.in/pallaavisarkkar_bot)Language was changed Successfully \n.Changed by {}"
 
 #plugin - ban.py
 ban2 : "Cannot find user to kick."
@@ -216,8 +216,8 @@ nm5 : "**You can set nightmode only in groups :(**"
 nm6 : "**Removed This Chat From Database. This Group Will Be No Longer Closed On 12Am(IST)"
 nm7 : "**Not Activated In This Chat**"
 nm8 : "I undestand `/nightmode on` and `/nightmode off` only"
-nm9 : "🌗 12:00 Am, Group Is Closing Till 6 Am. Night Mode Started ! \n**Powered By @szrosebot**"
-nm10 : "🌗 06:00 Am, Group Is Opening.\n**Powered By @szrosebot**"
+nm9 : "🌗 12:00 Am, Group Is Closing Till 6 Am. Night Mode Started ! \n**Powered By @pallaavisarkkar_bot**"
+nm10 : "🌗 06:00 Am, Group Is Opening.\n**Powered By @pallaavisarkkar_bot**"
 nm11 : "Give other parameters too "
 nm12 : "Syntax invailed \n Try `/help nightmode`"
 nm13 : "Please enter valid date and time...!"
